@@ -222,5 +222,71 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dark" tvg-logo="https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg" group-title="Series",Dark
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist" tvg-logo="https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg" group-title="Series",Money Heist
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ozark" tvg-logo="https://image.tmdb.org/t/p/w500/pCZbpCBBZHRTiOiXsXPBOlKGRes.jpg" group-title="Series",Ozark
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Black Mirror" tvg-logo="https://image.tmdb.org/t/p/w500/7PRddO7z7mcIi4lFFUVqwIScXtO.jpg" group-title="Series",Black Mirror
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Sopranos" tvg-logo="https://image.tmdb.org/t/p/w500/57okJJUBK0rFebqTYOdTwgmoLEG.jpg" group-title="Series",The Sopranos
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg" group-title="Series",Sherlock
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Godfather Part II" tvg-logo="https://image.tmdb.org/t/p/w500/hek3koDUyRQq7FkGR7RAPSbyDEu.jpg" group-title="Movies",The Godfather Part II
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Goodfellas" tvg-logo="https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg" group-title="Movies",Goodfellas
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Se7en" tvg-logo="https://image.tmdb.org/t/p/w500/6yoghtyTpznpBik8EngEmJskVUO.jpg" group-title="Movies",Se7en
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Departed" tvg-logo="https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg" group-title="Movies",The Departed
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Whiplash" tvg-logo="https://image.tmdb.org/t/p/w500/ePXuKdXZn2dAomKNDWLmJchU7Dj.jpg" group-title="Movies",Whiplash
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="mjh-sky-hgtv" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HGTV_US_Logo_2015.svg/640px-HGTV_US_Logo_2015.svg.png" group-title="Entertainment",HGTV
+https://linear.tubi.tv/linear/1341/master1400000.m3u8
+
+#EXTINF:-1 tvg-id="mjh-cas25-fast" tvg-name="Australia's Got Talent" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",Australia's Got Talent
+https://30a-tv.com/feeds/masters/30atv.m3u8
+
+#EXTINF:-1 tvg-id="mjh-cas41-fast" tvg-name="Bondi Rescue" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",Bondi Rescue
+https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+
+#EXTINF:-1 tvg-id="mjh-cas29-fast" tvg-name="Cooking & Culture" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",Cooking & Culture
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mjh-cas33-fast" tvg-name="The Yorkshire Vet" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",The Yorkshire Vet
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mjh-betterhomesandgardens-fast" tvg-name="Better Homes And Gardens" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",Better Homes And Gardens
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mjh-cas24-fast" tvg-name="Bondi Vet" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",Bondi Vet
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mjh-eden" tvg-name="Eden" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Kids",Eden
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="mjh-bbc-top-gear-247-fast" tvg-name="BBC Top Gear" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",BBC Top Gear
+https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
+
+#EXTINF:-1 tvg-id="mjh-dance-moms-247-fast" tvg-name="Dance Moms" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",Dance Moms
+https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
+
+#EXTINF:-1 tvg-id="mjh-the-block-247-fast" tvg-name="The Block" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",The Block
+http://173.225.32.123/Cozi-2358/index.m3u8
+
+#EXTINF:-1 tvg-id="mjh-mythbusters-fast" tvg-name="MythBusters 2" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Entertainment",MythBusters 2
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Chernobyl" tvg-logo="https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series",Chernobyl
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
