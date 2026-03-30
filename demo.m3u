@@ -121,49 +121,49 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="The Matrix" tvg-logo="https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg" group-title="Action Movies",The Matrix
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=1
 
 #EXTINF:-1 tvg-id="" tvg-name="Inception" tvg-logo="https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg" group-title="Sci-Fi Movies",Inception
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=2
 
 #EXTINF:-1 tvg-id="" tvg-name="Interstellar" tvg-logo="https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="Sci-Fi Movies",Interstellar
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=3
 
 #EXTINF:-1 tvg-id="" tvg-name="The Dark Knight" tvg-logo="https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="Action Movies",The Dark Knight
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=4
 
 #EXTINF:-1 tvg-id="" tvg-name="Pulp Fiction" tvg-logo="https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg" group-title="Crime Movies",Pulp Fiction
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=5
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club" tvg-logo="https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg" group-title="Drama Movies",Fight Club
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=6
 
 #EXTINF:-1 tvg-id="" tvg-name="Gladiator" tvg-logo="https://image.tmdb.org/t/p/w500/ehGpAZi4PFRRtupRfcExLOlIOmI.jpg" group-title="Action Movies",Gladiator
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=7
 
 #EXTINF:-1 tvg-id="" tvg-name="The Godfather" tvg-logo="https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsLegHnDcdh9L.jpg" group-title="Crime Movies",The Godfather
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=8
 
 #EXTINF:-1 tvg-id="" tvg-name="Schindler's List" tvg-logo="https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg" group-title="Drama Movies",Schindler's List
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=9
 
 #EXTINF:-1 tvg-id="" tvg-name="Forrest Gump" tvg-logo="https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg" group-title="Drama Movies",Forrest Gump
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=10
 
 #EXTINF:-1 tvg-id="" tvg-name="The Shawshank Redemption" tvg-logo="https://image.tmdb.org/t/p/w500/9O7gLzmreU0nGkIB6K3BsJbzvNv.jpg" group-title="Drama Movies",The Shawshank Redemption
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=11
 
 #EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings" tvg-logo="https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg" group-title="Action Movies",The Lord of the Rings
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=12
 
 #EXTINF:-1 tvg-id="" tvg-name="Goodfellas" tvg-logo="https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg" group-title="Crime Movies",Goodfellas
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=13
 
 #EXTINF:-1 tvg-id="" tvg-name="Saving Private Ryan" tvg-logo="https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg" group-title="Action Movies",Saving Private Ryan
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=14
 
 #EXTINF:-1 tvg-id="" tvg-name="The Silence of the Lambs" tvg-logo="https://image.tmdb.org/t/p/w500/uS9m8OBk1RVfUPjLLo0sHt5kOQ7.jpg" group-title="Thriller Movies",The Silence of the Lambs
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=15
 
 #EXTINF:-1 tvg-id="mjh-bbc-earth-fast" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
@@ -181,301 +181,301 @@ https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg" group-title="Crime Series",Breaking Bad
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=16
 
 #EXTINF:-1 tvg-id="" tvg-name="Game of Thrones" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="Fantasy Series",Game of Thrones
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=17
 
 #EXTINF:-1 tvg-id="" tvg-name="Stranger Things" tvg-logo="https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg" group-title="Sci-Fi Series",Stranger Things
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=18
 
 #EXTINF:-1 tvg-id="" tvg-name="The Office" tvg-logo="https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg" group-title="Comedy Series",The Office
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=19
 
 #EXTINF:-1 tvg-id="" tvg-name="Friends" tvg-logo="https://image.tmdb.org/t/p/w500/f496cm9enuEsZkSPzCwnTESEK5s.jpg" group-title="Comedy Series",Friends
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=20
 
 #EXTINF:-1 tvg-id="" tvg-name="The Crown" tvg-logo="https://image.tmdb.org/t/p/w500/1M876KPjulVwppEplnGTPHESZAb.jpg" group-title="Drama Series",The Crown
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=21
 
 #EXTINF:-1 tvg-id="" tvg-name="The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w500/sWgBv7LV2reencbiodZnDH6SC9c.jpg" group-title="Sci-Fi Series",The Mandalorian
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=22
 
 #EXTINF:-1 tvg-id="" tvg-name="Wednesday" tvg-logo="https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7hjznvcZODhkke9.jpg" group-title="Comedy Series",Wednesday
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=23
 
 #EXTINF:-1 tvg-id="" tvg-name="Squid Game" tvg-logo="https://image.tmdb.org/t/p/w500/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="Thriller Series",Squid Game
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=24
 
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/7vjaCdMw15FEbXyLQTVa04URsPm.jpg" group-title="Fantasy Series",The Witcher
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=25
 
 #EXTINF:-1 tvg-id="" tvg-name="The Last of Us" tvg-logo="https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg" group-title="Sci-Fi Series",The Last of Us
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=26
 
 #EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders" tvg-logo="https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg" group-title="Crime Series",Peaky Blinders
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=27
 
 #EXTINF:-1 tvg-id="" tvg-name="Narcos" tvg-logo="https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg" group-title="Crime Series",Narcos
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=28
 
 #EXTINF:-1 tvg-id="" tvg-name="Dark" tvg-logo="https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg" group-title="Sci-Fi Series",Dark
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=29
 
 #EXTINF:-1 tvg-id="" tvg-name="Money Heist" tvg-logo="https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg" group-title="Crime Series",Money Heist
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=30
 
 #EXTINF:-1 tvg-id="" tvg-name="Ozark" tvg-logo="https://image.tmdb.org/t/p/w500/pCZbpCBBZHRTiOiXsXPBOlKGRes.jpg" group-title="Crime Series",Ozark
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=31
 
 #EXTINF:-1 tvg-id="" tvg-name="Black Mirror" tvg-logo="https://image.tmdb.org/t/p/w500/7PRddO7z7mcIi4lFFUVqwIScXtO.jpg" group-title="Sci-Fi Series",Black Mirror
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=32
 
 #EXTINF:-1 tvg-id="" tvg-name="The Sopranos" tvg-logo="https://image.tmdb.org/t/p/w500/57okJJUBK0rFebqTYOdTwgmoLEG.jpg" group-title="Crime Series",The Sopranos
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=33
 
 #EXTINF:-1 tvg-id="" tvg-name="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg" group-title="Thriller Series",Sherlock
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=34
 
 #EXTINF:-1 tvg-id="" tvg-name="The Godfather Part II" tvg-logo="https://image.tmdb.org/t/p/w500/hek3koDUyRQq7FkGR7RAPSbyDEu.jpg" group-title="Crime Movies",The Godfather Part II
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=35
 
 #EXTINF:-1 tvg-id="" tvg-name="Goodfellas" tvg-logo="https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg" group-title="Crime Movies",Goodfellas
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=36
 
 #EXTINF:-1 tvg-id="" tvg-name="Se7en" tvg-logo="https://image.tmdb.org/t/p/w500/6yoghtyTpznpBik8EngEmJskVUO.jpg" group-title="Thriller Movies",Se7en
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=37
 
 #EXTINF:-1 tvg-id="" tvg-name="The Departed" tvg-logo="https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg" group-title="Crime Movies",The Departed
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=38
 
 #EXTINF:-1 tvg-id="" tvg-name="Whiplash" tvg-logo="https://image.tmdb.org/t/p/w500/ePXuKdXZn2dAomKNDWLmJchU7Dj.jpg" group-title="Drama Movies",Whiplash
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=39
 
 #EXTINF:-1 tvg-id="" tvg-name="Mad Max: Fury Road" tvg-logo="https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg" group-title="Action Movies",Mad Max: Fury Road
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=40
 
 #EXTINF:-1 tvg-id="" tvg-name="John Wick" tvg-logo="https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" group-title="Action Movies",John Wick
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=41
 
 #EXTINF:-1 tvg-id="" tvg-name="Die Hard" tvg-logo="https://image.tmdb.org/t/p/w500/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg" group-title="Action Movies",Die Hard
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=42
 
 #EXTINF:-1 tvg-id="" tvg-name="Raiders of the Lost Ark" tvg-logo="https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc0AHAb0.jpg" group-title="Action Movies",Raiders of the Lost Ark
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=43
 
 #EXTINF:-1 tvg-id="" tvg-name="Terminator 2" tvg-logo="https://image.tmdb.org/t/p/w500/5M0j0B18abtBI5gi2RhfjjurTqb.jpg" group-title="Action Movies",Terminator 2
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=44
 
 #EXTINF:-1 tvg-id="" tvg-name="Casino" tvg-logo="https://image.tmdb.org/t/p/w500/4TS5O1IP42bY2BvgMxL156EENy.jpg" group-title="Crime Movies",Casino
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=45
 
 #EXTINF:-1 tvg-id="" tvg-name="Scarface" tvg-logo="https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboXg8Aa4hBe9JIK.jpg" group-title="Crime Movies",Scarface
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=46
 
 #EXTINF:-1 tvg-id="" tvg-name="Heat" tvg-logo="https://image.tmdb.org/t/p/w500/rrBuGu0YKQ8oNv5n5ksK4c3LBkl.jpg" group-title="Crime Movies",Heat
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=47
 
 #EXTINF:-1 tvg-id="" tvg-name="City of God" tvg-logo="https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TEC.jpg" group-title="Crime Movies",City of God
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=48
 
 #EXTINF:-1 tvg-id="" tvg-name="12 Angry Men" tvg-logo="https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg" group-title="Drama Movies",12 Angry Men
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=49
 
 #EXTINF:-1 tvg-id="" tvg-name="The Green Mile" tvg-logo="https://image.tmdb.org/t/p/w500/o0lO84GI7qrG6XkLNfmlVEMjAT2.jpg" group-title="Drama Movies",The Green Mile
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=50
 
 #EXTINF:-1 tvg-id="" tvg-name="The Pianist" tvg-logo="https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRz6K.jpg" group-title="Drama Movies",The Pianist
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=51
 
 #EXTINF:-1 tvg-id="" tvg-name="A Beautiful Mind" tvg-logo="https://image.tmdb.org/t/p/w500/4SFqHDZ1NvWdysucZuCo4TFeXmu.jpg" group-title="Drama Movies",A Beautiful Mind
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=52
 
 #EXTINF:-1 tvg-id="" tvg-name="Good Will Hunting" tvg-logo="https://image.tmdb.org/t/p/w500/bABCBKYBK7A5G1x0FzmtQFnj1fX.jpg" group-title="Drama Movies",Good Will Hunting
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=53
 
 #EXTINF:-1 tvg-id="" tvg-name="Zodiac" tvg-logo="https://image.tmdb.org/t/p/w500/iPBMdo6Njawe8VNi8jXxjiEHYXY.jpg" group-title="Thriller Movies",Zodiac
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=54
 
 #EXTINF:-1 tvg-id="" tvg-name="Prisoners" tvg-logo="https://image.tmdb.org/t/p/w500/uhBqvi3Wr1EknuqLrKyaHC4qKHe.jpg" group-title="Thriller Movies",Prisoners
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=55
 
 #EXTINF:-1 tvg-id="" tvg-name="Shutter Island" tvg-logo="https://image.tmdb.org/t/p/w500/kve20tXMHFuS2ljRfBnD4156Dgk.jpg" group-title="Thriller Movies",Shutter Island
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=56
 
 #EXTINF:-1 tvg-id="" tvg-name="Gone Girl" tvg-logo="https://image.tmdb.org/t/p/w500/lv5xShBIDPe5q8Bz6MYeLdPmvnx.jpg" group-title="Thriller Movies",Gone Girl
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=57
 
 #EXTINF:-1 tvg-id="" tvg-name="Memento" tvg-logo="https://image.tmdb.org/t/p/w500/yuNs09hvpHVU1cBTCAk9zTGfT50.jpg" group-title="Thriller Movies",Memento
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=58
 
 #EXTINF:-1 tvg-id="" tvg-name="The Prestige" tvg-logo="https://image.tmdb.org/t/p/w500/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg" group-title="Thriller Movies",The Prestige
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=59
 
 #EXTINF:-1 tvg-id="" tvg-name="Old Boy" tvg-logo="https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg" group-title="Thriller Movies",Old Boy
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=60
 
 #EXTINF:-1 tvg-id="" tvg-name="Arrival" tvg-logo="https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg" group-title="Sci-Fi Movies",Arrival
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=61
 
 #EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2049" tvg-logo="https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="Sci-Fi Movies",Blade Runner 2049
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=62
 
 #EXTINF:-1 tvg-id="" tvg-name="Ex Machina" tvg-logo="https://image.tmdb.org/t/p/w500/bkY6hgMCqPMBTQpOBob0TGZgrMB.jpg" group-title="Sci-Fi Movies",Ex Machina
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=63
 
 #EXTINF:-1 tvg-id="" tvg-name="The Martian" tvg-logo="https://image.tmdb.org/t/p/w500/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg" group-title="Sci-Fi Movies",The Martian
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=64
 
 #EXTINF:-1 tvg-id="" tvg-name="Gravity" tvg-logo="https://image.tmdb.org/t/p/w500/uRLFnELzPjNJpRrN3YyTGNAfHOF.jpg" group-title="Sci-Fi Movies",Gravity
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=65
 
 #EXTINF:-1 tvg-id="" tvg-name="Tenet" tvg-logo="https://image.tmdb.org/t/p/w500/k68nPLbIST6NP96JmTxmZijEvCA.jpg" group-title="Sci-Fi Movies",Tenet
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=66
 
 #EXTINF:-1 tvg-id="" tvg-name="Dune" tvg-logo="https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="Sci-Fi Movies",Dune
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=67
 
 #EXTINF:-1 tvg-id="" tvg-name="Edge of Tomorrow" tvg-logo="https://image.tmdb.org/t/p/w500/xjw5YQ0cMP5WAr7HbVnGMJKEfGU.jpg" group-title="Sci-Fi Movies",Edge of Tomorrow
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=68
 
 #EXTINF:-1 tvg-id="" tvg-name="The Shining" tvg-logo="https://image.tmdb.org/t/p/w500/nRj5511mZdTl4saWEPoj9QroTIu.jpg" group-title="Horror Movies",The Shining
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=69
 
 #EXTINF:-1 tvg-id="" tvg-name="Get Out" tvg-logo="https://image.tmdb.org/t/p/w500/qbaIcFihLANUXDRGoEfGgGMEmQm.jpg" group-title="Horror Movies",Get Out
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=70
 
 #EXTINF:-1 tvg-id="" tvg-name="Hereditary" tvg-logo="https://image.tmdb.org/t/p/w500/4GFPuL14eXi8s9UKDbsGMndhbyW.jpg" group-title="Horror Movies",Hereditary
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=71
 
 #EXTINF:-1 tvg-id="" tvg-name="The Exorcist" tvg-logo="https://image.tmdb.org/t/p/w500/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg" group-title="Horror Movies",The Exorcist
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=72
 
 #EXTINF:-1 tvg-id="" tvg-name="A Quiet Place" tvg-logo="https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg" group-title="Horror Movies",A Quiet Place
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=73
 
 #EXTINF:-1 tvg-id="" tvg-name="Midsommar" tvg-logo="https://image.tmdb.org/t/p/w500/7LEI8ulZEBijWn3V2bELOOCj3Ei.jpg" group-title="Horror Movies",Midsommar
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=74
 
 #EXTINF:-1 tvg-id="" tvg-name="It" tvg-logo="https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg" group-title="Horror Movies",It
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=75
 
 #EXTINF:-1 tvg-id="" tvg-name="The Conjuring" tvg-logo="https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg" group-title="Horror Movies",The Conjuring
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=76
 
 #EXTINF:-1 tvg-id="" tvg-name="Us" tvg-logo="https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udezr.jpg" group-title="Horror Movies",Us
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=77
 
 #EXTINF:-1 tvg-id="" tvg-name="Alien" tvg-logo="https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg" group-title="Horror Movies",Alien
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=78
 
 #EXTINF:-1 tvg-id="" tvg-name="Vikings" tvg-logo="https://image.tmdb.org/t/p/w500/bQLrHIRNEVE21G0fRR3CnAmauJ9.jpg" group-title="Fantasy Series",Vikings
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=79
 
 #EXTINF:-1 tvg-id="" tvg-name="The Wheel of Time" tvg-logo="https://image.tmdb.org/t/p/w500/mpgDeLhl8HbhI0RRsm0SDXB6bTz.jpg" group-title="Fantasy Series",The Wheel of Time
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=80
 
 #EXTINF:-1 tvg-id="" tvg-name="Shadow and Bone" tvg-logo="https://image.tmdb.org/t/p/w500/mrPqfOdQ3oqF1OOCkM1dMNKHi3a.jpg" group-title="Fantasy Series",Shadow and Bone
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=81
 
 #EXTINF:-1 tvg-id="" tvg-name="His Dark Materials" tvg-logo="https://image.tmdb.org/t/p/w500/1P3QtW1IMHVI7AIbPIRHsTSaPEM.jpg" group-title="Fantasy Series",His Dark Materials
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=82
 
 #EXTINF:-1 tvg-id="" tvg-name="The Rings of Power" tvg-logo="https://image.tmdb.org/t/p/w500/mYLOqiStMXDvalV4cMsel4Gg1fP.jpg" group-title="Fantasy Series",The Rings of Power
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=83
 
 #EXTINF:-1 tvg-id="" tvg-name="Outlander" tvg-logo="https://image.tmdb.org/t/p/w500/pMOBjOdHbRsnnlpVtfPN3bP5wHE.jpg" group-title="Fantasy Series",Outlander
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=84
 
 #EXTINF:-1 tvg-id="" tvg-name="Carnival Row" tvg-logo="https://image.tmdb.org/t/p/w500/jyhX2gFkJbVCnbT3GnkVNKXwOy4.jpg" group-title="Fantasy Series",Carnival Row
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=85
 
 #EXTINF:-1 tvg-id="" tvg-name="The Sandman" tvg-logo="https://image.tmdb.org/t/p/w500/q54qEgagGOYCq5PAoOiPfgMNqqE.jpg" group-title="Fantasy Series",The Sandman
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=86
 
 #EXTINF:-1 tvg-id="" tvg-name="Mindhunter" tvg-logo="https://image.tmdb.org/t/p/w500/65BmdB7Uea0KLELHdqFbCEqoSPy.jpg" group-title="Crime Series",Mindhunter
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=87
 
 #EXTINF:-1 tvg-id="" tvg-name="Fargo" tvg-logo="https://image.tmdb.org/t/p/w500/6U9CPeRFTb7dSYIrE0bOxBaUPBH.jpg" group-title="Crime Series",Fargo
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=88
 
 #EXTINF:-1 tvg-id="" tvg-name="True Detective" tvg-logo="https://image.tmdb.org/t/p/w500/aowr4xpLP5sRCL50TkuADomJ1JC.jpg" group-title="Crime Series",True Detective
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=89
 
 #EXTINF:-1 tvg-id="" tvg-name="Better Call Saul" tvg-logo="https://image.tmdb.org/t/p/w500/fC2HDm5t0kHagaCKwP82H6gkYeN.jpg" group-title="Crime Series",Better Call Saul
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=90
 
 #EXTINF:-1 tvg-id="" tvg-name="Westworld" tvg-logo="https://image.tmdb.org/t/p/w500/8MfgyFHf7XEzHE4OoMaCo81xJTN.jpg" group-title="Sci-Fi Series",Westworld
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=91
 
 #EXTINF:-1 tvg-id="" tvg-name="Severance" tvg-logo="https://image.tmdb.org/t/p/w500/lFfF0yVSMkSPxSIVnHFjGcNFsaM.jpg" group-title="Sci-Fi Series",Severance
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=92
 
 #EXTINF:-1 tvg-id="" tvg-name="Altered Carbon" tvg-logo="https://image.tmdb.org/t/p/w500/95IrVFrgnCBNiIRJQ77AdSTZ3Wi.jpg" group-title="Sci-Fi Series",Altered Carbon
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=93
 
 #EXTINF:-1 tvg-id="" tvg-name="The Expanse" tvg-logo="https://image.tmdb.org/t/p/w500/bkVOTmHmj79cS1LGPZ2RbjZxD5Q.jpg" group-title="Sci-Fi Series",The Expanse
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=94
 
 #EXTINF:-1 tvg-id="" tvg-name="Seinfeld" tvg-logo="https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KBMR.jpg" group-title="Comedy Series",Seinfeld
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=95
 
 #EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nine-Nine" tvg-logo="https://image.tmdb.org/t/p/w500/hgRMSOt7a1GVibGLRUTR0VEfGbt.jpg" group-title="Comedy Series",Brooklyn Nine-Nine
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=96
 
 #EXTINF:-1 tvg-id="" tvg-name="Parks and Recreation" tvg-logo="https://image.tmdb.org/t/p/w500/3qjsRSh0YJaoMB3KxCCJPYWUlWU.jpg" group-title="Comedy Series",Parks and Recreation
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=97
 
 #EXTINF:-1 tvg-id="" tvg-name="Schitt's Creek" tvg-logo="https://image.tmdb.org/t/p/w500/iRhICX3MRjRVbpLTE0PB6JkfMsq.jpg" group-title="Comedy Series",Schitt's Creek
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=98
 
 #EXTINF:-1 tvg-id="" tvg-name="Fleabag" tvg-logo="https://image.tmdb.org/t/p/w500/27vEYsRGVfHGimgA0JAMqHdUJMD.jpg" group-title="Comedy Series",Fleabag
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=99
 
 #EXTINF:-1 tvg-id="" tvg-name="Ted Lasso" tvg-logo="https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg" group-title="Comedy Series",Ted Lasso
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=100
 
 #EXTINF:-1 tvg-id="" tvg-name="Succession" tvg-logo="https://image.tmdb.org/t/p/w500/e2NH17hUe5TE0khK8lBfjKHDCwZ.jpg" group-title="Drama Series",Succession
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=101
 
 #EXTINF:-1 tvg-id="" tvg-name="The Americans" tvg-logo="https://image.tmdb.org/t/p/w500/eGVrymJYQvpmMRSmwpRdp4CgwJV.jpg" group-title="Drama Series",The Americans
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=102
 
 #EXTINF:-1 tvg-id="" tvg-name="Band of Brothers" tvg-logo="https://image.tmdb.org/t/p/w500/zReaJSqdFxbeoPhTnhXiDNzpYC5.jpg" group-title="Drama Series",Band of Brothers
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=103
 
 #EXTINF:-1 tvg-id="" tvg-name="Mare of Easttown" tvg-logo="https://image.tmdb.org/t/p/w500/dBt2XpYXaon8TUhKtsrhA973JOb.jpg" group-title="Drama Series",Mare of Easttown
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=104
 
 #EXTINF:-1 tvg-id="" tvg-name="Homeland" tvg-logo="https://image.tmdb.org/t/p/w500/6GDW4EsmnTb3O3kVYMmTRAp3Byi.jpg" group-title="Drama Series",Homeland
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=105
 
 #EXTINF:-1 tvg-id="" tvg-name="The Wire" tvg-logo="https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg" group-title="Drama Series",The Wire
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=106
 
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Robot" tvg-logo="https://image.tmdb.org/t/p/w500/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg" group-title="Thriller Series",Mr. Robot
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=107
 
 #EXTINF:-1 tvg-id="" tvg-name="Dexter" tvg-logo="https://image.tmdb.org/t/p/w500/oCUfQlbkpFqZcQq7WHUPaQAOT4W.jpg" group-title="Thriller Series",Dexter
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=108
 
 #EXTINF:-1 tvg-id="" tvg-name="You" tvg-logo="https://image.tmdb.org/t/p/w500/7bEYwKIBMdVHuTSCJ9KSPmNgiSn.jpg" group-title="Thriller Series",You
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=109
 
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal" tvg-logo="https://image.tmdb.org/t/p/w500/kArcGHvTb3r8Ra7F7r2Iy8ex86b.jpg" group-title="Thriller Series",Hannibal
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=110
 
 #EXTINF:-1 tvg-id="" tvg-name="Killing Eve" tvg-logo="https://image.tmdb.org/t/p/w500/qKOrEn8KHfqfOPMFNnWwRhK8k8F.jpg" group-title="Thriller Series",Killing Eve
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=111
 
 #EXTINF:-1 tvg-id="" tvg-name="The Haunting of Hill House" tvg-logo="https://image.tmdb.org/t/p/w500/oGtiUPuiiaq0hECLxBKeZ1qCEH5.jpg" group-title="Thriller Series",The Haunting of Hill House
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=112
 
 #EXTINF:-1 tvg-id="" tvg-name="The Boys" tvg-logo="https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82dK.jpg" group-title="Thriller Series",The Boys
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=113
 
 #EXTINF:-1 tvg-id="" tvg-name="Luther" tvg-logo="https://image.tmdb.org/t/p/w500/aN49PBu0WfEagAmRuuPBj2CKTfL.jpg" group-title="Thriller Series",Luther
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=114
 
 #EXTINF:-1 tvg-id="mjh-sky-hgtv" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HGTV_US_Logo_2015.svg/640px-HGTV_US_Logo_2015.svg.png" group-title="Entertainment",HGTV
 https://linear.tubi.tv/linear/1341/master1400000.m3u8
@@ -514,61 +514,61 @@ http://173.225.32.123/Cozi-2358/index.m3u8
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Chernobyl" tvg-logo="https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Drama Series",Chernobyl
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=115
 
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic Park" tvg-logo="https://image.tmdb.org/t/p/w500/b1PLSCRmPXOaaBkD5MrzBQUGxzm.jpg" group-title="Action Movies",Jurassic Park
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=116
 
 #EXTINF:-1 tvg-id="" tvg-name="Top Gun: Maverick" tvg-logo="https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DG3wgMZ.jpg" group-title="Action Movies",Top Gun: Maverick
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=117
 
 #EXTINF:-1 tvg-id="" tvg-name="Kill Bill" tvg-logo="https://image.tmdb.org/t/p/w500/v7TKzEMHghP7KUZGvMEShMlnXV8.jpg" group-title="Action Movies",Kill Bill
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=118
 
 #EXTINF:-1 tvg-id="" tvg-name="American History X" tvg-logo="https://image.tmdb.org/t/p/w500/fXepRAYOx1qC3wju7XdDGx60775.jpg" group-title="Drama Movies",American History X
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=119
 
 #EXTINF:-1 tvg-id="" tvg-name="The Truman Show" tvg-logo="https://image.tmdb.org/t/p/w500/vuza0WtDlqP0klSW06rE75Vy5PD.jpg" group-title="Drama Movies",The Truman Show
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=120
 
 #EXTINF:-1 tvg-id="" tvg-name="Parasite" tvg-logo="https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg" group-title="Thriller Movies",Parasite
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=121
 
 #EXTINF:-1 tvg-id="" tvg-name="Nightcrawler" tvg-logo="https://image.tmdb.org/t/p/w500/j5PkYYHqJTuF20odX2S6WnDqsWB.jpg" group-title="Thriller Movies",Nightcrawler
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=122
 
 #EXTINF:-1 tvg-id="" tvg-name="No Country for Old Men" tvg-logo="https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siGGfHj.jpg" group-title="Crime Movies",No Country for Old Men
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=123
 
 #EXTINF:-1 tvg-id="" tvg-name="Reservoir Dogs" tvg-logo="https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg" group-title="Crime Movies",Reservoir Dogs
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=124
 
 #EXTINF:-1 tvg-id="" tvg-name="The Town" tvg-logo="https://image.tmdb.org/t/p/w500/bclf9QGlN8XvxDLl80Jk2wMHD9V.jpg" group-title="Crime Movies",The Town
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=125
 
 #EXTINF:-1 tvg-id="" tvg-name="28 Days Later" tvg-logo="https://image.tmdb.org/t/p/w500/7I1q8WBCtTx0UjouTgDlbFAjdgx.jpg" group-title="Horror Movies",28 Days Later
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=126
 
 #EXTINF:-1 tvg-id="" tvg-name="The Babadook" tvg-logo="https://image.tmdb.org/t/p/w500/sBEuGqrFyUicojUoH3JlNkYHIge.jpg" group-title="Horror Movies",The Babadook
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=127
 
 #EXTINF:-1 tvg-id="" tvg-name="Don't Breathe" tvg-logo="https://image.tmdb.org/t/p/w500/gw5v4FVjLQf7owXmwIBu2PWApP5.jpg" group-title="Horror Movies",Don't Breathe
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=128
 
 #EXTINF:-1 tvg-id="" tvg-name="The Babysitter" tvg-logo="https://image.tmdb.org/t/p/w500/2bvsZrBfR3cvjQixjMHdUqSi7BB.jpg" group-title="Horror Movies",The Babysitter
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=129
 
 #EXTINF:-1 tvg-id="" tvg-name="Annihilation" tvg-logo="https://image.tmdb.org/t/p/w500/d3c4YiMGapwpEg6JMfzu5mnU36J.jpg" group-title="Sci-Fi Movies",Annihilation
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=130
 
 #EXTINF:-1 tvg-id="" tvg-name="District 9" tvg-logo="https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEj.jpg" group-title="Sci-Fi Movies",District 9
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=131
 
 #EXTINF:-1 tvg-id="" tvg-name="Looper" tvg-logo="https://image.tmdb.org/t/p/w500/sN6jPIlizJMBwEXUA6u2r0fMCBc.jpg" group-title="Sci-Fi Movies",Looper
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=132
 
 #EXTINF:-1 tvg-id="" tvg-name="Only Murders in the Building" tvg-logo="https://image.tmdb.org/t/p/w500/4m5dPgVhZPuO6RX2gV0BNnZsh71.jpg" group-title="Comedy Series",Only Murders in the Building
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=133
 
 #EXTINF:-1 tvg-id="" tvg-name="Curb Your Enthusiasm" tvg-logo="https://image.tmdb.org/t/p/w500/mzbfQoqH8omV8g3pFwYCWtJSJLz.jpg" group-title="Comedy Series",Curb Your Enthusiasm
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?ch=134
