@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/TanKucukhas/iptv/main/demo/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/HalberdLLC/demo-list/main/epg.xml"
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
