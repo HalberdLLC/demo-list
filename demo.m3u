@@ -120,20 +120,50 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="mjh-10-mtv-reality" tvg-name="MTV Reality" tvg-logo="https://i.imgur.com/F6zn8kH.png" group-title="Music",MTV Reality
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 
-#EXTINF:-1 tvg-id="mjh-sky-ptms" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Movies",MovieSphere
+#EXTINF:-1 tvg-id="mjh-sky-ptms" tvg-name="The Matrix" tvg-logo="https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg" group-title="Movies",The Matrix
 http://demo.ipflix.tv/movie/demo/demo/101.mkv
 
-#EXTINF:-1 tvg-id="mjh-all-starcinema-fast" tvg-name="All-Star Cinema" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Movies",All-Star Cinema
+#EXTINF:-1 tvg-id="mjh-all-starcinema-fast" tvg-name="Inception" tvg-logo="https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg" group-title="Movies",Inception
 http://demo.ipflix.tv/movie/demo/demo/102.mkv
 
-#EXTINF:-1 tvg-id="mjh-moviesphere-fast" tvg-name="MovieSphere FAST" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Movies",MovieSphere FAST
+#EXTINF:-1 tvg-id="mjh-moviesphere-fast" tvg-name="Interstellar" tvg-logo="https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="Movies",Interstellar
 http://demo.ipflix.tv/movie/demo/demo/103.mkv
 
-#EXTINF:-1 tvg-id="mjh-10-romancemovies" tvg-name="Romance Movies" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Movies",Romance Movies
+#EXTINF:-1 tvg-id="mjh-10-romancemovies" tvg-name="The Dark Knight" tvg-logo="https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="Movies",The Dark Knight
 http://demo.ipflix.tv/movie/demo/demo/104.mkv
 
-#EXTINF:-1 tvg-id="mjh-sbs-4syd" tvg-name="SBS World Movies" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Movies",SBS World Movies
+#EXTINF:-1 tvg-id="mjh-sbs-4syd" tvg-name="Pulp Fiction" tvg-logo="https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg" group-title="Movies",Pulp Fiction
 http://demo.ipflix.tv/movie/demo/demo/105.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club" tvg-logo="https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg" group-title="Movies",Fight Club
+http://demo.ipflix.tv/movie/demo/demo/106.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator" tvg-logo="https://image.tmdb.org/t/p/w500/ehGpAZi4PFRRtupRfcExLOlIOmI.jpg" group-title="Movies",Gladiator
+http://demo.ipflix.tv/movie/demo/demo/107.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Godfather" tvg-logo="https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsLegHnDcdh9L.jpg" group-title="Movies",The Godfather
+http://demo.ipflix.tv/movie/demo/demo/108.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Schindler's List" tvg-logo="https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg" group-title="Movies",Schindler's List
+http://demo.ipflix.tv/movie/demo/demo/109.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Forrest Gump" tvg-logo="https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg" group-title="Movies",Forrest Gump
+http://demo.ipflix.tv/movie/demo/demo/110.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Shawshank Redemption" tvg-logo="https://image.tmdb.org/t/p/w500/9O7gLzmreU0nGkIB6K3BsJbzvNv.jpg" group-title="Movies",The Shawshank Redemption
+http://demo.ipflix.tv/movie/demo/demo/111.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings" tvg-logo="https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg" group-title="Movies",The Lord of the Rings
+http://demo.ipflix.tv/movie/demo/demo/112.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Goodfellas" tvg-logo="https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg" group-title="Movies",Goodfellas
+http://demo.ipflix.tv/movie/demo/demo/113.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Saving Private Ryan" tvg-logo="https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg" group-title="Movies",Saving Private Ryan
+http://demo.ipflix.tv/movie/demo/demo/114.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Silence of the Lambs" tvg-logo="https://image.tmdb.org/t/p/w500/uS9m8OBk1RVfUPjLLo0sHt5kOQ7.jpg" group-title="Movies",The Silence of the Lambs
+http://demo.ipflix.tv/movie/demo/demo/115.mkv
 
 #EXTINF:-1 tvg-id="mjh-bbc-earth-fast" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
