@@ -120,19 +120,19 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="mjh-10-mtv-reality" tvg-name="MTV Reality" tvg-logo="https://i.imgur.com/F6zn8kH.png" group-title="Music",MTV Reality
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 
-#EXTINF:-1 tvg-id="mjh-sky-ptms" tvg-name="The Matrix" tvg-logo="https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg" group-title="Movies",The Matrix
+#EXTINF:-1 tvg-id="" tvg-name="The Matrix" tvg-logo="https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg" group-title="Movies",The Matrix
 http://demo.ipflix.tv/movie/demo/demo/101.mkv
 
-#EXTINF:-1 tvg-id="mjh-all-starcinema-fast" tvg-name="Inception" tvg-logo="https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg" group-title="Movies",Inception
+#EXTINF:-1 tvg-id="" tvg-name="Inception" tvg-logo="https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg" group-title="Movies",Inception
 http://demo.ipflix.tv/movie/demo/demo/102.mkv
 
-#EXTINF:-1 tvg-id="mjh-moviesphere-fast" tvg-name="Interstellar" tvg-logo="https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="Movies",Interstellar
+#EXTINF:-1 tvg-id="" tvg-name="Interstellar" tvg-logo="https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="Movies",Interstellar
 http://demo.ipflix.tv/movie/demo/demo/103.mkv
 
-#EXTINF:-1 tvg-id="mjh-10-romancemovies" tvg-name="The Dark Knight" tvg-logo="https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="Movies",The Dark Knight
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight" tvg-logo="https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="Movies",The Dark Knight
 http://demo.ipflix.tv/movie/demo/demo/104.mkv
 
-#EXTINF:-1 tvg-id="mjh-sbs-4syd" tvg-name="Pulp Fiction" tvg-logo="https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg" group-title="Movies",Pulp Fiction
+#EXTINF:-1 tvg-id="" tvg-name="Pulp Fiction" tvg-logo="https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg" group-title="Movies",Pulp Fiction
 http://demo.ipflix.tv/movie/demo/demo/105.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Club" tvg-logo="https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg" group-title="Movies",Fight Club
