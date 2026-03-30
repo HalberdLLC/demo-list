@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="mjh-bbc-news" tvg-name="BBC News" tvg-logo="https://i.imgur.com/vqGPpRd.png" group-title="News",BBC News
+#EXTINF:-1 tvg-id="mjh-bbc-news" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 
 #EXTINF:-1 tvg-id="mjh-sbs-france24" tvg-name="France 24" tvg-logo="https://i.imgur.com/VjGMQwD.png" group-title="News",France 24
@@ -21,7 +21,7 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-id="mjh-sky-news-now" tvg-name="Sky News" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines" tvg-logo="https://i.imgur.com/vqGPpRd.png" group-title="News",CNN Headlines
+#EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png" group-title="News",CNN Headlines
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="mjh-channel-news-asia" tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Channel News Asia
@@ -195,7 +195,7 @@ http://demo.ipflix.tv/series/demo/demo/304.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Friends" tvg-logo="https://image.tmdb.org/t/p/w500/f496cm9enuEsZkSPzCwnTESEK5s.jpg" group-title="Series",Friends
 http://demo.ipflix.tv/series/demo/demo/305.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="The Crown" tvg-logo="https://image.tmdb.org/t/p/w500/1M876KPjulVwppTplnGTPHESZAb.jpg" group-title="Series",The Crown
+#EXTINF:-1 tvg-id="" tvg-name="The Crown" tvg-logo="https://image.tmdb.org/t/p/w500/1M876KPjulVwppEplnGTPHESZAb.jpg" group-title="Series",The Crown
 http://demo.ipflix.tv/series/demo/demo/306.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w500/sWgBv7LV2reencbiodZnDH6SC9c.jpg" group-title="Series",The Mandalorian
