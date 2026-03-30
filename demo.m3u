@@ -179,3 +179,48 @@ https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 
 #EXTINF:-1 tvg-id="mjh-bbc-food-fast" tvg-name="BBC Food" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Food
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg" group-title="Series",Breaking Bad
+http://demo.ipflix.tv/series/demo/demo/301.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="Series",Game of Thrones
+http://demo.ipflix.tv/series/demo/demo/302.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things" tvg-logo="https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg" group-title="Series",Stranger Things
+http://demo.ipflix.tv/series/demo/demo/303.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Office" tvg-logo="https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg" group-title="Series",The Office
+http://demo.ipflix.tv/series/demo/demo/304.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Friends" tvg-logo="https://image.tmdb.org/t/p/w500/f496cm9enuEsZkSPzCwnTESEK5s.jpg" group-title="Series",Friends
+http://demo.ipflix.tv/series/demo/demo/305.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Crown" tvg-logo="https://image.tmdb.org/t/p/w500/1M876KPjulVwppTplnGTPHESZAb.jpg" group-title="Series",The Crown
+http://demo.ipflix.tv/series/demo/demo/306.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w500/sWgBv7LV2reencbiodZnDH6SC9c.jpg" group-title="Series",The Mandalorian
+http://demo.ipflix.tv/series/demo/demo/307.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Wednesday" tvg-logo="https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7hjznvcZODhkke9.jpg" group-title="Series",Wednesday
+http://demo.ipflix.tv/series/demo/demo/308.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Squid Game" tvg-logo="https://image.tmdb.org/t/p/w500/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="Series",Squid Game
+http://demo.ipflix.tv/series/demo/demo/309.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/7vjaCdMw15FEbXyLQTVa04URsPm.jpg" group-title="Series",The Witcher
+http://demo.ipflix.tv/series/demo/demo/310.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Last of Us" tvg-logo="https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg" group-title="Series",The Last of Us
+http://demo.ipflix.tv/series/demo/demo/311.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders" tvg-logo="https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg" group-title="Series",Peaky Blinders
+http://demo.ipflix.tv/series/demo/demo/312.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Narcos" tvg-logo="https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg" group-title="Series",Narcos
+http://demo.ipflix.tv/series/demo/demo/313.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Dark" tvg-logo="https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg" group-title="Series",Dark
+http://demo.ipflix.tv/series/demo/demo/314.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl" tvg-logo="https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series",Chernobyl
+http://demo.ipflix.tv/series/demo/demo/315.mkv
