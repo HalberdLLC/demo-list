@@ -1,17 +1,17 @@
 # IPFlix Demo Playlist
 
-Demo playlist for IPFlix app screenshots and testing. Contains 70 channels across 8 categories with real free-to-air live streams and placeholder entries for Movies/Series with TMDB poster art.
+Demo playlist for IPFlix app screenshots, testing, and unit tests. Contains 68 channels across 8 categories with real free-to-air live streams and Creative Commons licensed films (Blender Foundation open movies).
 
 ## Load in the App
 
 **Playlist URL (add as M3U playlist):**
 ```
-https://raw.githubusercontent.com/TanKucukhas/iptv/main/demo/demo.m3u
+https://raw.githubusercontent.com/HalberdLLC/demo-list/main/demo.m3u
 ```
 
 **EPG URL (auto-detected from playlist header):**
 ```
-https://raw.githubusercontent.com/TanKucukhas/iptv/main/demo/epg.xml
+https://raw.githubusercontent.com/HalberdLLC/demo-list/main/epg.xml
 ```
 
 The `x-tvg-url` header in the M3U file points directly to the EPG, so the app will auto-suggest the EPG source during onboarding.
@@ -25,8 +25,8 @@ The `x-tvg-url` header in the M3U file points directly to the EPG, so the app wi
 | Entertainment | 8 | Live streams (BET, MTV, Cozi TV, Pluto Animation, ...) |
 | Kids | 7 | Live streams (PBS Kids, Baby Shark TV, ABC Kids, Disney Jr., ...) |
 | Music | 8 | Live streams (MTV Pop, CMT, Stingray Jazz, NOW Rock, ...) |
-| Movies | 10 | Placeholder with TMDB poster art |
-| Series | 10 | Placeholder with TMDB poster art |
+| Movies | 10 | Blender Foundation open movies (Big Buck Bunny, Sintel, Tears of Steel, ...) — CC licensed |
+| Series | 8 | Blender Open Movies series (S01E01-E04, S02E01-E04) — CC licensed |
 | Documentary | 8 | Live streams (BBC Earth, Nat Geo, History Channel, ...) |
 
 ## Regenerate EPG
