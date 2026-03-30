@@ -3,203 +3,149 @@
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 tvg-id="mjh-bbc-news" tvg-name="BBC News" tvg-logo="https://i.imgur.com/vqGPpRd.png" group-title="News",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+
+#EXTINF:-1 tvg-id="mjh-sbs-france24" tvg-name="France 24" tvg-logo="https://i.imgur.com/VjGMQwD.png" group-title="News",France 24
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+
 #EXTINF:-1 tvg-id="mjh-dw-news" tvg-name="DW English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
-#EXTINF:-1 tvg-id="mjh-sbs-france24" tvg-name="France 24 English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 English
-https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mjh-bbc-news" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
-
-#EXTINF:-1 tvg-id="mjh-sbs-euronews" tvg-name="Euronews English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews English
+#EXTINF:-1 tvg-id="mjh-sbs-euronews" tvg-name="Euronews" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Euronews
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mjh-abc-news" tvg-name="ABC News Australia" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News Australia
+#EXTINF:-1 tvg-id="mjh-abc-news" tvg-name="ABC News" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="News",NHK World Japan
-https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
-
-#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@Poland" tvg-name="Africanews" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews
-https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
-
-#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="News",CGTN
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-id="mjh-sky-news-now" tvg-name="Sky News Extra" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra
+#EXTINF:-1 tvg-id="mjh-sky-news-now" tvg-name="Sky News" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-name="CBS Sports Golazo" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports",CBS Sports Golazo
+#EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines" tvg-logo="https://i.imgur.com/vqGPpRd.png" group-title="News",CNN Headlines
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="mjh-channel-news-asia" tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Channel News Asia
+https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
+
+#EXTINF:-1 tvg-id="mjh-cas32-fast" tvg-name="7NEWS Spotlight" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",7NEWS Spotlight
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
+
+#EXTINF:-1 tvg-id="mjh-racing-fast" tvg-name="Racing.com" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports",Racing.com
 https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
 
-#EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-name="ESPN8 The Ocho" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Sports",ESPN8 The Ocho
-https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-
-#EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD" tvg-name="DraftKings Network" tvg-logo="https://i.imgur.com/SFYhgrt.png" group-title="Sports",DraftKings Network
-https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
-
-#EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-name="FanDuel TV" tvg-logo="https://i.imgur.com/YPHrFU0.png" group-title="Sports",FanDuel TV
-https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
-
-#EXTINF:-1 tvg-id="BilliardTV.us@SD" tvg-name="Billiard TV" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="Sports",Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
-
-#EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" tvg-name="ACC Digital Network" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="Sports",ACC Digital Network
-https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CricketGold.au@SD" tvg-name="Cricket Gold" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Sports",Cricket Gold
+#EXTINF:-1 tvg-id="mjh-cricketgold-fast" tvg-name="Cricket Gold" tvg-logo="https://i.imgur.com/SFYhgrt.png" group-title="Sports",Cricket Gold
 https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
 
-#EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Sports",DAZN Combat
+#EXTINF:-1 tvg-id="mjh-livgolfreplays-fast" tvg-name="LIV Golf Replays" tvg-logo="https://i.imgur.com/YPHrFU0.png" group-title="Sports",LIV Golf Replays
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+
+#EXTINF:-1 tvg-id="mjh-racingwa-fast" tvg-name="Racing WA" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="Sports",Racing WA
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+
+#EXTINF:-1 tvg-id="mjh-sky-racing-1" tvg-name="Sky Racing 1" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="Sports",Sky Racing 1
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mjh-sky-racing-2" tvg-name="Sky Racing 2" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="Sports",Sky Racing 2
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="30AGolfKingdom.us@SD" tvg-name="Golf Kingdom" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="Sports",Golf Kingdom
+#EXTINF:-1 tvg-id="mjh-sky-racing-thoroughbred" tvg-name="Sky Racing Thoroughbred" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="Sports",Sky Racing Thoroughbred
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 
-#EXTINF:-1 tvg-id="BETPlutoTV.us@US" tvg-name="BET Pluto TV" tvg-logo="https://i.imgur.com/Kq9WKZg.png" group-title="Entertainment",BET Pluto TV
+#EXTINF:-1 tvg-id="mjh-abc-90-seconds-sport" tvg-name="ABC Sport" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Sports",ABC Sport
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+
+#EXTINF:-1 tvg-id="mjh-sky-fast3" tvg-name="Below Deck Vault" tvg-logo="https://i.imgur.com/Kq9WKZg.png" group-title="Entertainment",Below Deck Vault
 https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
 
-#EXTINF:-1 tvg-id="MTVPlutoTV.us@US" tvg-name="MTV Pluto TV" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Entertainment",MTV Pluto TV
+#EXTINF:-1 tvg-id="mjh-sky-ptmb" tvg-name="MythBusters" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Entertainment",MythBusters
 https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 
-#EXTINF:-1 tvg-id="CoziTV.us@SD" tvg-name="Cozi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png" group-title="Entertainment",Cozi TV
+#EXTINF:-1 tvg-id="mjh-sky-fast4" tvg-name="True Crime" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",True Crime
 http://173.225.32.123/Cozi-2358/index.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAnimation.us@UK" tvg-name="Pluto TV Animation" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",Pluto TV Animation
+#EXTINF:-1 tvg-id="mjh-sky-fast5" tvg-name="Paranormal" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",Paranormal
 https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
 
-#EXTINF:-1 tvg-id="30ATelevisionChannel.us@SD" tvg-name="30A Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" group-title="Entertainment",30A Television
+#EXTINF:-1 tvg-id="mjh-sky-fast1" tvg-name="Motorheads" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",Motorheads
 https://30a-tv.com/feeds/masters/30atv.m3u8
 
-#EXTINF:-1 tvg-id="ABCTVPlus.au@Sydney" tvg-name="ABC TV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" group-title="Entertainment",ABC TV Plus
+#EXTINF:-1 tvg-id="mjh-sky-fast2" tvg-name="Deadliest Catch" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",Deadliest Catch
 https://c.mjh.nz/abc-tv-plus.m3u8
 
-#EXTINF:-1 tvg-id="MeritStreet.us@SD" tvg-name="Merit Street" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media_2024_1.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Merit Street
+#EXTINF:-1 tvg-id="mjh-sky-fast6" tvg-name="House Hunters" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Entertainment",House Hunters
 https://linear.tubi.tv/linear/1341/master1400000.m3u8
 
-#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us@SD" tvg-name="AMC Absolute Reality" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Entertainment",AMC Absolute Reality
+#EXTINF:-1 tvg-id="mjh-bravo" tvg-name="Bravo" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Entertainment",Bravo
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="Kids",PBS Kids
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-
-#EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-name="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="ABC Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Kids",ABC Kids
-https://c.mjh.nz/abc-kids.m3u8
-
-#EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-name="Disney Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Jr.
-http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="CBeebies.pl@SD" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="Kids",CBeebies
-https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc022/bbccbeebiesraw/bbccbeebiesraw.mpd
-
-#EXTINF:-1 tvg-id="ABCEntertains.au@Sydney" tvg-name="ABC Me" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" group-title="Kids",ABC Me
-https://c.mjh.nz/abc-me.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.pl@SD" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel
-https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc102/disneychannelhdraw/disneychannelhdraw.mpd
-
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@US" tvg-name="MTV Biggest Pop" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="Music",MTV Biggest Pop
-https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
-
-#EXTINF:-1 tvg-id="MTVSpankinNew.us@US" tvg-name="MTV Spankin New" tvg-logo="https://i.imgur.com/thbvJd1.png" group-title="Music",MTV Spankin New
-https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
-
-#EXTINF:-1 tvg-id="CMTEqualPlay.us@SD" tvg-name="CMT Equal Play" tvg-logo="https://i.imgur.com/9ysjkkL.png" group-title="Music",CMT Equal Play
-https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
-
-#EXTINF:-1 tvg-id="StingraySmoothJazz.ca@SD" tvg-name="Stingray Smooth Jazz" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="Music",Stingray Smooth Jazz
-https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="JAZZ.pl@SD" tvg-name="Jazz TV" tvg-logo="https://i.imgur.com/F6zn8kH.png" group-title="Music",Jazz TV
-https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc121/jazztvhdraw/jazztvhdraw.mpd
-
-#EXTINF:-1 tvg-id="GMTV.us@SD" tvg-name="GMTV Music" tvg-logo="https://i.imgur.com/GJYb8c8.png" group-title="Music",GMTV Music
+#EXTINF:-1 tvg-id="mjh-10peach-nsw" tvg-name="10 Comedy" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Entertainment",10 Comedy
 https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8
 
-#EXTINF:-1 tvg-id="NOWRock.uk@Poland" tvg-name="NOW Rock" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock
+#EXTINF:-1 tvg-id="mjh-10bold-nsw" tvg-name="10 Drama" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Entertainment",10 Drama
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="30AMusic.us@SD" tvg-name="30A Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" group-title="Music",30A Music
+#EXTINF:-1 tvg-id="mjh-7bravo-fast" tvg-name="7Bravo" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Entertainment",7Bravo
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+
+#EXTINF:-1 tvg-id="mjh-bbc-comedy-fast" tvg-name="BBC Comedy" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Entertainment",BBC Comedy
 https://30a-tv.com/music.m3u8
 
-#EXTINF:-1 tvg-id="bigbuckbunny.movie" tvg-name="Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/440px-Big_buck_bunny_poster_big.jpg" group-title="Movies",Big Buck Bunny
+#EXTINF:-1 tvg-id="mjh-10shake-nsw" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="Kids",Nickelodeon
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10-nick-jr" tvg-name="Nick Jr Club" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Nick Jr Club
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="ABC Kids" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Kids",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10-nicktoons" tvg-name="NickToons" tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="Kids",NickToons
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10-nicktoons-90s" tvg-name="NickToons 90s" tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="Kids",NickToons 90s
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10-nickteen" tvg-name="NickTeen" tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="Kids",NickTeen
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10-mtvridiculousness" tvg-name="MTV Ridiculousness" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="Music",MTV Ridiculousness
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10-mtvgeordieshore" tvg-name="MTV Geordie Shore" tvg-logo="https://i.imgur.com/thbvJd1.png" group-title="Music",MTV Geordie Shore
+https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10-mtv-jersey-shore" tvg-name="MTV Jersey Shore" tvg-logo="https://i.imgur.com/9ysjkkL.png" group-title="Music",MTV Jersey Shore
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10-mtv-reality" tvg-name="MTV Reality" tvg-logo="https://i.imgur.com/F6zn8kH.png" group-title="Music",MTV Reality
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+
+#EXTINF:-1 tvg-id="mjh-sky-ptms" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Movies",MovieSphere
 http://demo.ipflix.tv/movie/demo/demo/101.mkv
 
-#EXTINF:-1 tvg-id="tearsofsteel.movie" tvg-name="Tears of Steel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tearsofsteel_poster_vertical.jpg/440px-Tearsofsteel_poster_vertical.jpg" group-title="Movies",Tears of Steel
+#EXTINF:-1 tvg-id="mjh-all-starcinema-fast" tvg-name="All-Star Cinema" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Movies",All-Star Cinema
 http://demo.ipflix.tv/movie/demo/demo/102.mkv
 
-#EXTINF:-1 tvg-id="elephantsdream.movie" tvg-name="Elephants Dream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Elephants_Dream_s5_both.jpg/440px-Elephants_Dream_s5_both.jpg" group-title="Movies",Elephants Dream
+#EXTINF:-1 tvg-id="mjh-moviesphere-fast" tvg-name="MovieSphere FAST" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Movies",MovieSphere FAST
 http://demo.ipflix.tv/movie/demo/demo/103.mkv
 
-#EXTINF:-1 tvg-id="sintel.movie" tvg-name="Sintel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sintel_poster.jpg/440px-Sintel_poster.jpg" group-title="Movies",Sintel
+#EXTINF:-1 tvg-id="mjh-10-romancemovies" tvg-name="Romance Movies" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Movies",Romance Movies
 http://demo.ipflix.tv/movie/demo/demo/104.mkv
 
-#EXTINF:-1 tvg-id="cosmoslaundromat.movie" tvg-name="Cosmos Laundromat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cosmos_Laundromat_-_First_Cycle._Official_Poster.jpg/440px-Cosmos_Laundromat_-_First_Cycle._Official_Poster.jpg" group-title="Movies",Cosmos Laundromat
+#EXTINF:-1 tvg-id="mjh-sbs-4syd" tvg-name="SBS World Movies" tvg-logo="https://i.imgur.com/HT0hv7F.png" group-title="Movies",SBS World Movies
 http://demo.ipflix.tv/movie/demo/demo/105.mkv
 
-#EXTINF:-1 tvg-id="springstudio.movie" tvg-name="Spring" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spring_-_Blender_Open_Movie.jpg/440px-Spring_-_Blender_Open_Movie.jpg" group-title="Movies",Spring
-http://demo.ipflix.tv/movie/demo/demo/106.mkv
-
-#EXTINF:-1 tvg-id="agentcoffee.movie" tvg-name="Agent 327: Operation Barbershop" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Agent327_still01.jpg/440px-Agent327_still01.jpg" group-title="Movies",Agent 327: Operation Barbershop
-http://demo.ipflix.tv/movie/demo/demo/107.mkv
-
-#EXTINF:-1 tvg-id="caminandes3.movie" tvg-name="Caminandes 3: Llamigos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Caminandes-_Llamigos_poster.png/440px-Caminandes-_Llamigos_poster.png" group-title="Movies",Caminandes 3: Llamigos
-http://demo.ipflix.tv/movie/demo/demo/108.mkv
-
-#EXTINF:-1 tvg-id="glasshalf.movie" tvg-name="Glass Half" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Glass_Half_screenshot.jpg/440px-Glass_Half_screenshot.jpg" group-title="Movies",Glass Half
-http://demo.ipflix.tv/movie/demo/demo/109.mkv
-
-#EXTINF:-1 tvg-id="hero.movie" tvg-name="Hero" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Blender2.demo_.hero.jpg/440px-Blender2.demo_.hero.jpg" group-title="Movies",Hero
-http://demo.ipflix.tv/movie/demo/demo/110.mkv
-
-#EXTINF:-1 tvg-id="blenderopen.series" tvg-name="Blender Open Movies - S01E01 Elephants Dream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Elephants_Dream_s5_both.jpg/440px-Elephants_Dream_s5_both.jpg" group-title="Series",Blender Open Movies - S01E01 Elephants Dream
-http://demo.ipflix.tv/series/demo/demo/201.mkv
-
-#EXTINF:-1 tvg-id="blenderopen.series" tvg-name="Blender Open Movies - S01E02 Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/440px-Big_buck_bunny_poster_big.jpg" group-title="Series",Blender Open Movies - S01E02 Big Buck Bunny
-http://demo.ipflix.tv/series/demo/demo/202.mkv
-
-#EXTINF:-1 tvg-id="blenderopen.series" tvg-name="Blender Open Movies - S01E03 Sintel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sintel_poster.jpg/440px-Sintel_poster.jpg" group-title="Series",Blender Open Movies - S01E03 Sintel
-http://demo.ipflix.tv/series/demo/demo/203.mkv
-
-#EXTINF:-1 tvg-id="blenderopen.series" tvg-name="Blender Open Movies - S01E04 Tears of Steel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tearsofsteel_poster_vertical.jpg/440px-Tearsofsteel_poster_vertical.jpg" group-title="Series",Blender Open Movies - S01E04 Tears of Steel
-http://demo.ipflix.tv/series/demo/demo/204.mkv
-
-#EXTINF:-1 tvg-id="blenderopen.series" tvg-name="Blender Open Movies - S02E01 Cosmos Laundromat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cosmos_Laundromat_-_First_Cycle._Official_Poster.jpg/440px-Cosmos_Laundromat_-_First_Cycle._Official_Poster.jpg" group-title="Series",Blender Open Movies - S02E01 Cosmos Laundromat
-http://demo.ipflix.tv/series/demo/demo/205.mkv
-
-#EXTINF:-1 tvg-id="blenderopen.series" tvg-name="Blender Open Movies - S02E02 Spring" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spring_-_Blender_Open_Movie.jpg/440px-Spring_-_Blender_Open_Movie.jpg" group-title="Series",Blender Open Movies - S02E02 Spring
-http://demo.ipflix.tv/series/demo/demo/206.mkv
-
-#EXTINF:-1 tvg-id="blenderopen.series" tvg-name="Blender Open Movies - S02E03 Agent 327" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Agent327_still01.jpg/440px-Agent327_still01.jpg" group-title="Series",Blender Open Movies - S02E03 Agent 327
-http://demo.ipflix.tv/series/demo/demo/207.mkv
-
-#EXTINF:-1 tvg-id="blenderopen.series" tvg-name="Blender Open Movies - S02E04 Caminandes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Caminandes-_Llamigos_poster.png/440px-Caminandes-_Llamigos_poster.png" group-title="Series",Blender Open Movies - S02E04 Caminandes
-http://demo.ipflix.tv/series/demo/demo/208.mkv
-
-#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth
+#EXTINF:-1 tvg-id="mjh-bbc-earth-fast" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.pl@SD" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic
-https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc103/nationalgeographichdraw/nationalgeographichdraw.mpd
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.pl@SD" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",Nat Geo Wild
-https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/nationalgeographicwildhdraw/nationalgeographicwildhdraw.mpd
-
-#EXTINF:-1 tvg-id="History.pl@SD" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History Channel
-https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc004/historyhdraw/historyhdraw.m3u8
-
-#EXTINF:-1 tvg-id="BloombergOriginals.us@SD" tvg-name="Bloomberg Originals" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="Documentary",Bloomberg Originals
-https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-name="Autentic History" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="Documentary",Autentic History
+#EXTINF:-1 tvg-id="mjh-10-documentaryshell" tvg-name="Sharks & Predators" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",Sharks & Predators
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-name="Adventure Earth" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="Documentary",Adventure Earth
+#EXTINF:-1 tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-name="BBC Antiques Roadshow" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Antiques Roadshow
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 
-#EXTINF:-1 tvg-id="History2.pl@SD" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2
-https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc005/history2hdraw/history2hdraw.m3u8
+#EXTINF:-1 tvg-id="mjh-bbc-home-garden-fast" tvg-name="BBC Home & Garden" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Home & Garden
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mjh-bbc-food-fast" tvg-name="BBC Food" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Food
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
