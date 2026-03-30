@@ -1,21 +1,21 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/HalberdLLC/demo-list/main/epg.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/all/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera English
+#EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="DW.de@English" tvg-name="DW English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW English
+#EXTINF:-1 tvg-id="mjh-dw-news" tvg-name="DW English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-name="France 24 English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 English
+#EXTINF:-1 tvg-id="mjh-sbs-france24" tvg-name="France 24 English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 English
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News
+#EXTINF:-1 tvg-id="mjh-bbc-news" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-name="Euronews English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews English
+#EXTINF:-1 tvg-id="mjh-sbs-euronews" tvg-name="Euronews English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews English
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-name="ABC News Australia" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News Australia
+#EXTINF:-1 tvg-id="mjh-abc-news" tvg-name="ABC News Australia" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="News",NHK World Japan
@@ -27,7 +27,7 @@ https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="News",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="SkyNewsExtra1.au@SD" tvg-name="Sky News Extra" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra
+#EXTINF:-1 tvg-id="mjh-sky-news-now" tvg-name="Sky News Extra" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-name="CBS Sports Golazo" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports",CBS Sports Golazo
@@ -87,7 +87,7 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-name="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABCKids.au@Sydney" tvg-name="ABC Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Kids",ABC Kids
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="ABC Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-name="Disney Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Jr.
